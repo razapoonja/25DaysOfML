@@ -2,7 +2,7 @@
 
 ## Day 1, 2: Nov 4, Nov 5, 2019
 
-**Today's Progress:** Learned about data preprocessing.
+**Today's Progress:** Learned data preprocessing.
 
 **Thoughts:** Simple stuff which is really important.
 
@@ -10,6 +10,12 @@
 
 ## Day 3: Nov 6, 2019
 
-**Today's Progress:** Learned about simple linear regression.
+**Today's Progress:** Learned simple linear regression.
 
-**Thoughts:** Simple stuff which is really important.
+**Thoughts:** -
+
+## Day 4: Nov 7, 2019
+
+**Today's Progress:** Learned multiple linear regression and backward elimination method.
+
+**Thoughts:** -
