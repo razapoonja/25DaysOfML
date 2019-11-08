@@ -19,3 +19,9 @@
 **Today's Progress:** Learned multiple linear regression and backward elimination method.
 
 **Thoughts:** -
+
+## Day 5: Nov 8, 2019
+
+**Today's Progress:** Learned polynomial regression.
+
+**Thoughts:** -
