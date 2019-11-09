@@ -25,3 +25,9 @@
 **Today's Progress:** Learned polynomial regression.
 
 **Thoughts:** -
+
+## Day 3: Nov 6, 2019
+
+**Today's Progress:** Learned support vector regression.
+
+**Thoughts:** -
