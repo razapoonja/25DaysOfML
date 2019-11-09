@@ -20,7 +20,7 @@
 
 **Thoughts:** -
 
-## Day 5: Nov 8, 2019
+## Day 5, 6: Nov 8, Nov 9, 2019
 
 **Today's Progress:** Learned polynomial regression.
 
