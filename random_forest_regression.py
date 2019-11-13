@@ -7,7 +7,7 @@ dataset = pd.read_csv('position_salaries.csv')
 X = dataset.iloc[:, 1:2].values
 Y = dataset.iloc[:, 2].values
 
-regressor = RandomForestRegressor(n_estimators = 10, random_state = 0)
+regressor = RandomForestRegressor(n_estimators = 300, random_state = 0)
 regressor.fit(X, Y)
 
 y_pred = regressor.predict(np.array([[6.5]]))
