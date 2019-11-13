@@ -40,9 +40,14 @@
 
 **Link of Work:** [Commit](https://github.com/razapoonja/100DaysOfML/commit/80d1e2065e30a83aa4ef97fa44e7f208a55c86b2)
 
-## Day 8: Nov 11, 2019
+## Day 8, Day 9: Nov 11, Nov 12, 2019
 
-**Today's Progress:** Learned decision tree regression
+**Today's Progress:** Learned decision tree regression and concept of bias and variance
 
 **Thoughts:** -
 
+## Day 10: Nov 13, 2019
+
+**Today's Progress:** Learned random forest regression
+
+**Thoughts:** -
