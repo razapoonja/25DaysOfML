@@ -44,10 +44,16 @@
 
 **Today's Progress:** Learned decision tree regression and concept of bias and variance
 
-**Thoughts:** -
+**Thoughts:** Best explanation I could find for regression trees https://www.youtube.com/watch?v=g9c66TUylZ4
 
 ## Day 10: Nov 13, 2019
 
 **Today's Progress:** Learned random forest regression
+
+**Thoughts:** -
+
+## Day 11: Nov 14, 2019
+
+**Today's Progress:** Learned logistic regression
 
 **Thoughts:** -
