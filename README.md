@@ -52,8 +52,14 @@
 
 **Thoughts:** -
 
-## Day 11: Nov 14, 2019
+## Day 11, Day 12: Nov 14, Nov 15, 2019
 
-**Today's Progress:** Learned logistic regression
+**Today's Progress:** Learned logistic regression and visualize it using confusion matrix
+
+**Thoughts:** -
+
+## Day 13: Nov 16, 2019
+
+**Today's Progress:** Learned k-nearest neighbors and to calculate euclidean distance
 
 **Thoughts:** -

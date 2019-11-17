@@ -4,20 +4,20 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 from sklearn.metrics import confusion_matrix
 from sklearn.preprocessing import StandardScaler
-from sklearn.linear_model import LogisticRegression
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
 
 dataset = pd.read_csv('social_network_ads.csv')
-X = dataset.iloc[:, [2, 3]].values
-Y = dataset.iloc[:, 4].values
+x = dataset.iloc[:, [2, 3]].values
+y = dataset.iloc[:, 4].values
 
-x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.25, random_state = 0)
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.25, random_state = 0)
 
 sc = StandardScaler()
 x_train = sc.fit_transform(x_train)
 x_test = sc.transform(x_test)
 
-classifier = LogisticRegression(random_state = 0)
+classifier = KNeighborsClassifier(n_neighbors = 5, metric = 'minkowski', p = 2)
 classifier.fit(x_train, y_train)
 
 y_pred = classifier.predict(x_test)
@@ -36,7 +36,7 @@ plt.ylim(X2.min(), X2.max())
 for i, j in enumerate(np.unique(y_set)):
     plt.scatter(x_set[y_set == j, 0], x_set[y_set == j, 1],
                 c = ListedColormap(('red', 'green'))(i), label = j)
-plt.title('Logistic Regression (Test set)')
+plt.title('K-NN (Test set)')
 plt.xlabel('Age')
 plt.ylabel('Estimated Salary')
 plt.legend()
