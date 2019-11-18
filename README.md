@@ -63,3 +63,9 @@
 **Today's Progress:** Learned k-nearest neighbors and to calculate euclidean distance
 
 **Thoughts:** -
+
+## Day 14, Day 15: Nov 17, Nov 18 2019
+
+**Today's Progress:** Learned support vector machine
+
+**Thoughts:** -
