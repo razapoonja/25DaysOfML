@@ -64,8 +64,10 @@
 
 **Thoughts:** -
 
-## Day 14, Day 15: Nov 17, Nov 18 2019
+## Day 14, Day 15, Day 16: Nov 17, Nov 18, Nov 19 2019
 
-**Today's Progress:** Learned support vector machine
+**Today's Progress:** Learned support vector machine using different types of kernel and mapping in higher dimension 
 
 **Thoughts:** -
+
+
