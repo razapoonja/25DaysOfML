@@ -70,4 +70,8 @@
 
 **Thoughts:** -
 
+## Day 17: Nov 20 2019
 
+**Today's Progress:** Learned naive bayes 
+
+**Thoughts:** -
