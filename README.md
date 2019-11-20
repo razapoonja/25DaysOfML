@@ -72,6 +72,6 @@
 
 ## Day 17: Nov 20 2019
 
-**Today's Progress:** Learned naive bayes 
+**Today's Progress:** Learned bayes theorem and naive bayes 
 
 **Thoughts:** -
