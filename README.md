@@ -75,3 +75,9 @@
 **Today's Progress:** Learned bayes theorem and naive bayes 
 
 **Thoughts:** -
+
+## Day 19: Nov 22, 2019
+
+**Today's Progress:** Learned decision tree classification 
+
+**Thoughts:** -
