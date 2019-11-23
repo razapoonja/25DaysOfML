@@ -76,7 +76,7 @@
 
 **Thoughts:** -
 
-## Day 19: Nov 22, 2019
+## Day 19, Day 20: Nov 22, Nov 23, 2019
 
 **Today's Progress:** Learned decision tree classification 
 
