@@ -81,3 +81,9 @@
 **Today's Progress:** Learned decision tree classification 
 
 **Thoughts:** -
+
+## Day 21: Nov 24, 2019
+
+**Today's Progress:** Learned random forest classification 
+
+**Thoughts:** -
