@@ -72,18 +72,17 @@
 
 ## Day 17, Day 18: Nov 20, Nov 21, 2019
 
-**Today's Progress:** Learned bayes theorem and naive bayes 
+**Today's Progress:** Learned bayes theorem and naive bayes
 
 **Thoughts:** -
 
 ## Day 19, Day 20: Nov 22, Nov 23, 2019
 
-**Today's Progress:** Learned decision tree classification 
-
+**Today's Progress:** Learned decision tree classification
 **Thoughts:** -
 
 ## Day 21: Nov 24, 2019
 
-**Today's Progress:** Learned random forest classification 
+**Today's Progress:** Learned random forest classification
 
 **Thoughts:** -
