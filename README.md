@@ -86,3 +86,9 @@
 **Today's Progress:** Learned random forest classification
 
 **Thoughts:** -
+
+## Day 22: Nov 25, 2019
+
+**Today's Progress:** Learned to evaluate classification model performance
+
+**Thoughts:** -
