@@ -1,4 +1,4 @@
-# 100 Days Of ML
+# 25 Days Of ML
 
 ## Day 1, 2: Nov 4, Nov 5, 2019
 
